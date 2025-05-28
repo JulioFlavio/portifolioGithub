@@ -1,0 +1,185 @@
+nav.caixasuperior {
+
+  font-family: sans-serif;
+  /* Estilo de fonte */
+  color: black;
+  /* Cor da letra na caixa com o nome */
+  /* background-color: gray; */
+  /* Cor de fundo da caixa com o nome */
+  padding: auto;
+  /* cima, direita, baixo, esquerda */
+  /* Espaçamento entre a fonte e o fim da caixa com o nome */
+  /* Arredondamento da caixa com nome */
+  margin: auto;
+  /* Margem entre o final da caixa e o próximo elemento */
+  display: flex;
+  border-bottom: black;
+  background-color: lightgrey;
+
+}
+
+p.nome {
+
+  color: black;
+  font-size: 20pt;
+  background-color: rgb(245, 245, 245);
+  border-radius: 10px;
+  padding: 1%;
+  margin: 10px;
+  margin-right: auto;
+}
+
+.linhaInfo {
+  margin-left: 25px;
+}
+
+.caixaSombra {
+  margin: 2% 8% 2% 8%;
+  box-shadow: 10px 5px 5px lightgray;
+  border: 2px #cccccc solid;
+  /* Efeito de sombra */
+  border-radius: 10px;
+  /* Arredondamento das caixas */
+  padding: 10px;
+  /* Espaçamento entre o conteúdo e a borda */
+  background-color: rgb(245, 245, 245);
+  /* Cor de fundo das caixas */
+}
+
+li.secao {
+  color: black;
+  font-weight: bold;
+  background-color: rgb(245, 245, 245);
+  border-radius: 10px;
+  padding: 5px;
+  list-style: none;
+  display: inline-block;
+  margin: 10px;
+  text-align: left;
+}
+
+a.nome {
+  font-weight: bold;
+}
+
+a:link {
+  color: black;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
+
+/* selected link */
+a:active {
+  color: black;
+}
+
+div.linha {
+  font-size: 30px;
+  border-style: solid;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+}
+
+img.imgperfil {
+  width: 200px;
+  border: 3px;
+  border-style: solid;
+  padding: 3px;
+  border-color: black;
+  display: block;
+}
+
+div.perfil {
+  margin: 20px;
+  display: flex;
+  padding-right: 100px;
+}
+
+div.biografia {
+  margin: 0px 0px 0px 30px;
+}
+
+div.perfil p {
+  display: inline-flex;
+  width: 100%;
+}
+
+.repositorios {
+  width: 350px;
+  margin: 20px 50px 20px 10px;
+  /* display: inline-block;
+  flex-grow: 1;
+  flex-wrap: wrap; */
+  background-color: rgb(223, 223, 223);
+  padding: 5%;
+}
+
+.conteudo {
+  /* background-color: #65655E; */
+  margin: 2%;
+
+  /* 
+  align-self: center;
+  align-content: center;
+  align-items: center;
+
+  justify-content: center;
+  justify-self: center;
+  justify-items: center;
+ */
+}
+
+.imgColegas {
+  border-radius: 50%;
+  border: solid 2px;
+}
+
+.imgColegas p {
+  text-align: center;
+}
+
+footer {
+  padding: 2%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: grey;
+}
+
+footer p {
+  font-weight: bold;
+}
+
+i {
+  margin-right: 3%;
+}
+
+.card {
+  margin: 3%;
+}
+
+.seguidores {
+  text-align: right;
+}
+
+.topicos {
+  background-color: #3a3aa1;
+  padding: 8px;
+  margin: 20px 12px 10px 12px;
+  border-radius: 10px;
+  color: white;
+}
+
+#repositorios {
+  margin: 2%;
+}

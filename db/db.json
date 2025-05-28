@@ -1,0 +1,39 @@
+{
+    "carroussel": [
+        {
+            "id": 1,
+            "name": "Curso Lógica",
+            "content": "/public/assets/imagens/logica.jpg",
+            "description": "Curso de lógica de programação - Curso em Vídeo",
+            "link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV"
+        },
+        {
+          "id": 2,
+          "name": "Curso Python 3",
+          "content": "/public/assets/imagens/python.jpg",
+          "description": "Curso Python 3 - Curso em vídeo",
+          "link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6"
+        },
+        {
+          "id": 3,
+          "name": "Curso JavaScript",
+          "content": "/public/assets/imagens/javascript.jpg",
+          "description": "Curso de JavaScript - Curso em Vídeo",
+          "link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1"
+        },
+        {
+          "id": 4,
+          "name": "Curso HTML e CSS",
+          "content": "/public/assets/imagens/html.jpg",
+          "description": "Curso de HTML e CSS - Curso em Vídeo",
+          "link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6"
+        },
+        {
+            "id": 5,
+            "name": "Curso de Linux",
+            "content": "/public/assets/imagens/linux.jpg",
+            "description": "Curso de Linux - Curso em Vídeo",
+            "link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV"
+        }
+    ]
+}
